@@ -1,0 +1,5 @@
+rootProject.name = "RaoguoWeiXinPay"
+include ':app'
+include ':joke-annotations'
+include ':joke-pay'
+include ':joke-compiler'
